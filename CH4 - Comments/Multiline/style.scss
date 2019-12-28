@@ -1,0 +1,14 @@
+/* This comment is
+ * more than one line long
+ * since it uses the CSS comment syntax,
+ * it will appear in the CSS output. */
+body {
+  color: black;
+}
+
+// These comments are in single line
+// They will not appear in the CSS output,
+// since they use the single-line comment syntax.
+a {
+  color: blue;
+}
